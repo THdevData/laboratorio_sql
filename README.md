@@ -39,18 +39,10 @@ laboratorio_sql/
 
 Atualmente, o projeto está em sua fase inicial de modelagem.
 
-### Sprint 1
-
-* [x] Tabela `person`
-* [x] Tabela `address`
-* [x] Tabela `person_address`
-* [x] Tabela `department`
-* [ ] Tabela `employee`
-
 ## 📌 Próximos Passos
 
 * Finalizar a estrutura principal do banco.
-* Popular as tabelas com dados fictícios.
+* Popular as tabelas com dados fictícios. (Algumas tabelas já foram povoadas)
 * Desenvolver consultas SQL para estudos.
 * Criar desafios práticos utilizando o banco de dados.
 * Documentar todas as entidades e relacionamentos.

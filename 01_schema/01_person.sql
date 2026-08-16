@@ -6,8 +6,6 @@ Responsabilidade:
 Armazenar os dados pessoais de qualquer indivíduo
 cadastrado no sistema.
 
-Relacionamentos:
-- person 1:N person_address
 =========================================================
 */
 

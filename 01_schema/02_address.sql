@@ -5,8 +5,6 @@ Tabela: address
 Responsabilidade:
 Armazenar os endereços cadastrado no sistema.
 
-Relacionamentos:
-- address 1:N person_address
 =========================================================
 */
 

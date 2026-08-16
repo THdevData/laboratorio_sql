@@ -5,9 +5,6 @@ Tabela: person_address
 Responsabilidade:
 Faz a vinculo entre as tabelas person e address
 
-Relacionamentos:
-- person_address N:1 person
-- person_address N:1 address
 =========================================================
 */
 
