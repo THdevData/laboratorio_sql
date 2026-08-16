@@ -44,9 +44,8 @@ Atualmente, o projeto está em sua fase inicial de modelagem.
 * [x] Tabela `person`
 * [x] Tabela `address`
 * [x] Tabela `person_address`
-* [ ] Tabela `department`
+* [x] Tabela `department`
 * [ ] Tabela `employee`
-* [ ] Tabela `employee_department`
 
 ## 📌 Próximos Passos
 
@@ -60,14 +59,12 @@ Atualmente, o projeto está em sua fase inicial de modelagem.
 
 Este projeto é desenvolvido por **Thomaz Trindade** como parte da jornada de estudos em Banco de Dados e PostgreSQL.
 
-O projeto conta com o auxílio do **ChatGPT (OpenAI)** na revisão da modelagem, discussão de arquitetura, aplicação de boas práticas, explicação de conceitos e simulação de code reviews. Todas as decisões são discutidas de forma colaborativa, com foco no aprendizado e na evolução contínua do projeto.
+O projeto conta com o auxílio do ChatGPT na revisão da modelagem, discussão de arquitetura, aplicação de boas práticas, explicação de conceitos e simulação de code reviews. Todas as decisões são discutidas de forma colaborativa, com foco no aprendizado e na evolução contínua do projeto.
 
 ## 📖 Objetivo Final
 
 Construir um laboratório completo de PostgreSQL que sirva como ambiente de estudos, prática e demonstração de conhecimentos em banco de dados, reunindo modelagem, consultas SQL, documentação e exemplos de aplicações reais.
 
 ---
-
-**Autor:** Thomaz Trindade
 
 🚀 *Projeto em evolução contínua.*
