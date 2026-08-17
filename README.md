@@ -31,8 +31,8 @@ laboratorio_sql/
 ├── 05_procedures/    # Procedures
 ├── 06_triggers/      # Triggers
 ├── 07_views/         # Views
-├── 08_indexes/       # Índices
-└── 09_docs/          # Documentação do projeto
+└── 08_indexes/       # Índices
+
 ```
 
 ## 🚀 Status do Projeto
@@ -42,7 +42,7 @@ Atualmente, o projeto está em sua fase inicial de modelagem.
 ## 📌 Próximos Passos
 
 * Finalizar a estrutura principal do banco.
-* Popular as tabelas com dados fictícios. (Algumas tabelas já foram povoadas)
+* Popular as tabelas com dados fictícios. (Algumas tabelas já foram)
 * Desenvolver consultas SQL para estudos.
 * Criar desafios práticos utilizando o banco de dados.
 * Documentar todas as entidades e relacionamentos.
